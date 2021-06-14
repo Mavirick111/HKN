@@ -1,0 +1,26 @@
+
+  body {
+    background-color: #DEB887;
+  }
+
+  img:hover {
+    background-color: gold;
+  }
+
+hr {
+    background-color: #DEB887;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+.header {
+  background-color: #B8860B;
+}
+.HKN_books {
+  width: 50%;
+  height: 200px;
+  background-color: black;
+}
